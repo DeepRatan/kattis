@@ -1,5 +1,4 @@
 package com.kattis.open;
-import java.text.DecimalFormat;
 import java.util.Scanner;
 public class QualityAdjustedLifeYear {
 	public static void main(String[] args) {
